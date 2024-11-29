@@ -1,4 +1,5 @@
-Check this out (How it works) : https://www.youtube.com/watch?v=s6hMk4NrHAk
+You can check the Project 
+Live Project 
 
 User Access Management System
 -----------------------------
@@ -78,7 +79,7 @@ Installation
 -------------
 1. Clone the repository:
 
-git clone https://github.com/BharatBhagyajyoti/User-Access-Management-System.git
+git clone https://github.com/Minakshi843/UserAccessManagementSystem
 
 2.Navigate to the project directory and build the project:
 
