@@ -87,6 +87,7 @@ cd User-Access-Management-System
 mvn clean install
 
 3.Configure the database settings in the JDBC connection file.
+
 4.Run the application on your servlet container (e.g., Apache Tomcat).
 
 Usage
